@@ -25,7 +25,7 @@
 ## Technologies Used
 - Pandas Version 1.2.4
 - Seaborn Version 0.11.1
-- Skikit Learn Version 0.24.1
+- Scikit-learn Version 0.24.1
 - Statsmodels Version 0.12.2
 
 ## Contact
